@@ -1,16 +1,20 @@
-## Hi there 👋
+# ⚡ Hi there, I'm Md Rashidul Islam 👋
 
-<!--
-**rashidul-cs/rashidul-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/rashidul-cs">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&width=435&lines=CS+Student;Exploring+Low-Level+C;Python+Enthusiast;Building+Algorithmic+Logic" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 { WHOAMI }
+
+```bash
+$ username --verbose
+{
+  "name": "Md Rashidul Islam",
+  "role": "CS Student",
+  "focus": ["Structured C Programming"],
+  "philosophy": "Enforcing memory safety & catching runtime leaks before production."
+}
