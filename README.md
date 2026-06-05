@@ -1,18 +1,21 @@
-<h1 align="center">Hi there, I'm Rashidul! 👋</h1>
+<h1 align="center">Hi 👋, I'm Md Rashidul Islam</h1>
+<h3 align="center">A passionate student and programmer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashidul-cs&show_icons=true&theme=dark" alt="Rashidul's Stats" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidul-cs" alt="rashidul-cs" /></a> </p>
+
+- 🌱 I’m currently learning **C Programming**
+
+- 💬 Ask me about **C and Problem Solving**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-### 🛠 Tech Stack
-<p align="center">
-  <a href="https://cprogramming.com/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Language" /></a>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidul-cs&theme=dark" alt="GitHub Streak" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidul-cs&show_icons=true&locale=en&layout=compact" alt="rashidul-cs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidul-cs&show_icons=true&locale=en" alt="rashidul-cs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidul-cs&" alt="rashidul-cs" /></p>
