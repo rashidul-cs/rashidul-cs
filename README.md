@@ -1,21 +1,18 @@
-<h1 align="center">Hi 👋, I'm Md Rashidul Islam</h1>
-<h3 align="center">A passionate student and programmer from Bangladesh</h3>
+# 💫 About Me:
+Hi, I am Md Rashidul Islam, a C programming enthusiast and university student.<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashidul-cs" alt="rashidul-cs" /></a> </p>
 
-- 🌱 I’m currently learning **C Programming**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rashidul-cs&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 Ask me about **C and Problem Solving**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rashidul-cs&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
+[![](https://komarev.com/ghpvc/?username=rashidul-cs&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidul-cs&show_icons=true&locale=en&layout=compact" alt="rashidul-cs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidul-cs&show_icons=true&locale=en" alt="rashidul-cs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidul-cs&" alt="rashidul-cs" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
