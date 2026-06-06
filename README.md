@@ -15,11 +15,7 @@ I am always eager to learn and improve my logic—I even enjoy fixing my own cod
 
 ---
 
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
-# 🛠️ Languages & Tools I Have Placed My Hands On:
+# 💻 Tech Stack & Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
