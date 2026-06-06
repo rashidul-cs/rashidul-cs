@@ -19,6 +19,16 @@ I am always eager to learn and improve my logic—I even enjoy fixing my own cod
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
+# 🛠️ Languages & Tools I Have Placed My Hands On:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
