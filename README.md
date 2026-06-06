@@ -1,43 +1,17 @@
-<!-- Banner Image -->
-<img src="https://pin.it/110kbSIk7" width="100%">
+<h1 align="center">Hi 👋, I'm Md RAshidul Islam</h1>
+<h3 align="center">👨‍💻 About Me Hi, I am Md Rashidul Islam. I am currently a university student, passionate about exploring the world of programming. I have a deep interest in understanding how systems work under the hood. Currently, I am actively focusing on: C Programming Problem Solving 📈 My Journey I enjoy tackling programming challenges and have successfully completed various problems. I am always eager to learn and improve my logic—I even enjoy fixing my own code errors to ensure they are perfect!</h3>
 
-### 👨‍💻 About Me
-Hi, I am **Md Rashidul Islam**. I am currently a university student, passionate about exploring the world of programming.
+- 🌱 I’m currently learning **C language**
 
-I have a deep interest in understanding how systems work under the hood. Currently, I am actively focusing on:
-
-* **C Programming**
-* **Problem Solving**
-
----
-
-### 📈 My Journey
-I enjoy tackling programming challenges and have successfully completed various problems.
-
-I am always eager to learn and improve my logic—I even enjoy fixing my own code errors to ensure they are perfect!
-
----
-
-### 💻 Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
----
-
-### 🛠 Languages & Tools I Have Placed My Hands On
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-### 📊 Analytics
-![](https://github-readme-stats.shion.dev/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=rashidul-cs&theme=radical&hide_border=false)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidul-cs&show_icons=true&locale=en&layout=compact" alt="rashidul-cs" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidul-cs&show_icons=true&locale=en" alt="rashidul-cs" /></p>
 
-### 📅 Contribution Graph
-![](https://github-contributor-stats.vercel.app/api?username=rashidul-cs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidul-cs&" alt="rashidul-cs" /></p>
