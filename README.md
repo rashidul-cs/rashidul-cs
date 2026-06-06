@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rashidul-cs/rashidul-cs/main/1000041119.jpg" alt="Cover Banner" width="100%">
-</p>
+<img src="https://raw.githubusercontent.com/rashidul-cs/rashidul-cs/main/1000041119.jpg" alt="Cover Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;">
 
 # 💫 About Me:
 
