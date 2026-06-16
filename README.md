@@ -27,11 +27,11 @@ I am always eager to learn and improve my logic—I even enjoy fixing my own cod
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://streak-stats.demolab.com/?user=rashidul-cs&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rashidul-cs&theme=radical&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 
@@ -40,5 +40,3 @@ I am always eager to learn and improve my logic—I even enjoy fixing my own cod
 ---
 
 [![](https://komarev.com/ghpvc/?username=rashidul-cs&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
