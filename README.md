@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/rashidul-cs/rashidul-cs/main/1000041119.jpg" alt="Cover Banner" width="100%" height="250px" style="object-fit: cover; border-radius: 8px;">
 
 # 💫 About Me:
-
 Hi, I am Md Rashidul Islam. I am currently a university student, passionate about exploring the world of programming.
 
 I have a deep interest in understanding how systems work under the hood. Currently, I am actively focusing on:
@@ -16,7 +15,6 @@ I am always eager to learn and improve my logic—I even enjoy fixing my own cod
 ---
 
 # 💻 Tech Stack & Tools:
-
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -27,17 +25,11 @@ I am always eager to learn and improve my logic—I even enjoy fixing my own cod
 ---
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rashidul-cs&theme=radical&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=rashidul-cs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.shion.dev/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rashidul-cs&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-
 [![](https://komarev.com/ghpvc/?username=rashidul-cs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
