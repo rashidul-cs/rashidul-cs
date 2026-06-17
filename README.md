@@ -5,7 +5,7 @@
 Hi, I am Md Rashidul Islam. I am currently a university student, passionate about exploring the world of programming.
 
 I have a deep interest in understanding how systems work under the hood. Currently, I am actively focusing on:
-* **C Programming**
+* **C / C++ Programming**
 * **Problem Solving**
 
 ### 📈 My Journey
@@ -19,6 +19,7 @@ I am always eager to learn and improve my logic—I even enjoy fixing my own cod
 
 <p align="left">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -27,7 +28,7 @@ I am always eager to learn and improve my logic—I even enjoy fixing my own cod
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=rashidul-cs&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=86400)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rashidul-cs&theme=radical&hide_border=false)<br/>
 
