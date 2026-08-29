@@ -1,21 +1,8 @@
-Add a gh-ascii ASCII profile card to my GitHub profile README.
-
-Context:
-- My GitHub handle: rashidul-cs
-- My profile README lives in the repo rashidul-cs/rashidul-cs. If it doesn't exist, create it as a public repo with a README.
-- Card generator: https://gh.crafter.run/rashidul-cs?theme=dark|light returns an SVG.
-
-Steps:
-1. Clone github.com/rashidul-cs/rashidul-cs and download both themes into its root:
-   curl -fL "https://gh.crafter.run/rashidul-cs?theme=dark&cols=140" -o dark_mode.svg
-   curl -fL "https://gh.crafter.run/rashidul-cs?theme=light&cols=140" -o light_mode.svg
-2. Render or open both SVGs and look at them before committing.
-3. Insert this at the top of README.md, keeping all existing content:
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-     <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-     <img alt="rashidul-cs's GitHub profile" src="dark_mode.svg" />
-   </picture>
-   If the light card reads poorly against white, use a plain <img src="dark_mode.svg" width="100%" /> instead of <picture> — the dark card carries its own background.
-4. Commit both SVGs + the README change ("feat: add gh-ascii profile card") and push.
-5. Confirm it renders at github.com/rashidul-cs.
+git clone https://github.com/rashidul-cs/rashidul-cs.git && \
+cd rashidul-cs && \
+curl -fL "https://gh.crafter.run/rashidul-cs?theme=dark&cols=140" -o dark_mode.svg && \
+curl -fL "https://gh.crafter.run/rashidul-cs?theme=light&cols=140" -o light_mode.svg && \
+printf '<picture>\n  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />\n  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />\n  <img alt="rashidul-cs'\''s GitHub profile" src="dark_mode.svg" />\n</picture>\n\n' | cat - README.md > temp_readme.md && mv temp_readme.md README.md && \
+git add dark_mode.svg light_mode.svg README.md && \
+git commit -m "feat: add gh-ascii profile card" && \
+git push origin main
