@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="rashidul-cs's GitHub profile" src="dark_mode.svg" />
-</picture>
 Add a gh-ascii ASCII profile card to my GitHub profile README.
 
 Context:
